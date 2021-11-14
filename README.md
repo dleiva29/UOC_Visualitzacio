@@ -9,4 +9,4 @@
 ## Visualització
 
 - https://public.tableau.com/views/TempsCatalans/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
-- 
+- <a href="https://public.tableau.com/views/TempsCatalans/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link">link text</a>
